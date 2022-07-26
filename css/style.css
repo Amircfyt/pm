@@ -1,0 +1,19 @@
+@font-face {
+    font-family: IRANMarker;
+    src: url('../fonts/IRANMarker.ttf');
+}
+*{
+    font-family: IRANMarker ;
+}
+a.nav-link{
+    margin: 0px , 10px;
+    color: #333;
+    
+}
+#dropdown-menu{
+    border-bottom: 2px , solid , #333;
+    border-radius: 5px , 5px ,0px ,0px;
+}
+body , input{
+text-align:right;
+}
