@@ -10,3 +10,7 @@ Default email: amir@gmail.com
 Easily read your anonymous messages
 Just create a database and import the sql.sql file in it and connect the script to your database and that's it.
 Hope you enjoy.
+ </br>
+My Email: Cheraghi.2007@outlook.com
+ </br>
+Please follow me♡
